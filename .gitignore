@@ -1,0 +1,51 @@
+# class file
+*.class
+
+# package file
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# kdif3 file
+*.orig
+
+# maven file
+**/target/
+
+# eclipse file
+.settings/
+**/.settings/
+.project
+.classpath
+
+# idea file
+**/.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp file
+*.log
+*.cache
+*.dif
+*.patch
+*.dif
+
+# system file
+.DS_Store
+*/.DS_Store
+Thumbs.db
+Desktop.ini
+
+# test file
+src/main/java/com/alipay/*
+src/main/test/*
+src/test/*
+**/test/
+
+# log file
+**/logs/
+
